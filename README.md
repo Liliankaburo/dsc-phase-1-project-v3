@@ -64,14 +64,30 @@ a) Data Selection>> identification of the relevant variables from our data
 b) Data Cleaning >> Check for missing values and handle them by either dropping them altogether or replacing them with a value like mean or median(this is called imputing)
 
 c) data Normalization
+
 d) data aggregation - aggregate data by aircraft type with metrics like total number of accidents and their severity.
 
 
 # Risk Assessment and Analysis
 
-Data aggregation- grouping data by aircraft category to calculate total accidents and injuries to provide a clear overview of the risk levels.
+>Data aggregation- grouping data by aircraft category to calculate total accidents and injuries to provide a clear overview of the risk levels.
 
-Creating visual representations on the findings to facilitate understanding and decision making
+>Creating visual representations on the findings to facilitate understanding and decision making.Visualizations showcase:
+
+
+(i) key risk metrics for different model of aircrafts.
+
+(ii) comparative analysis of accidents rates
+
+# Deliverables
+
+summarize analysis,findings and recommendations in a comprehensive final report.
+
+A userfriendly tableau dashboard with clear data insights to used to draw conclusions
+
+
+
+
 
 
 
