@@ -101,7 +101,7 @@ A userfriendly tableau dashboard with clear data insights to used to draw conclu
 # engine type with most minor injuries
 ![Alt_img](https://github.com/Liliankaburo/dsc-phase-1-project-v3/blob/b9e1c09a4d14e52c5bb52deb0d2c07592a824fdc/plot6.png)
 
-
+# Amateur built and total fatal injuries
 ![Alt_img](https://github.com/Liliankaburo/dsc-phase-1-project-v3/blob/bc41ba20ad485ca34c90dcbbcc36d7ba2918cb23/plot7.png)
 
 
