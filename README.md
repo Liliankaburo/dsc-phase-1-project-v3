@@ -110,6 +110,72 @@ A userfriendly tableau dashboard with clear data insights to used to draw conclu
 [Types of Aircrafts](https://github.com/Liliankaburo/dsc-phase-1-project-v3/blob/eabd3a06d18f63dbe954d121a5a5f57f668f266f/Understanding%20Aircraft%20Types.pdf)
 
 
+# Recemmendations
+
+1. Purchase big powerful planes with four engines if you want to venture into something like military operations that need more space for carrying military machineries and weapons but also require little landing and taking off space.
+
+2. Focus on low risks Models with less fatalities,less severity on injuries and aircraft damage.
+ 
+ 3. Making decisions based on financial safety(where financial losses are mitigated) while still putting into consideration the safety of the passengers who are entrusting their lives to your airline.
+
+  
+![image](https://github.com/user-attachments/assets/f9a8794c-28ca-4fd1-94c0-779fbc0a799e)
+
+
+
+# Next Steps
+
+1.Research thoroughly on the type of planes with what type of engines and what number fo engines to insightfully be able to know which plane is best suited for what.
+2.Vet and invest heavily on training your stuff about the planes you acquire for this venture because human error is a big contributing factor to aviation accidents. They need to know the planes like the back of their hands because swift reactions are needed incase of a failure in an engine and so forth.
+3.Ensure to research to on your operational routes to ensure you have enough power and space to land.
+
+
+# Conclusion
+
+.Further data collection and analysis
+.Market research
+.Research your operational routes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/156756d1-88ea-4efb-81f9-af05daaa45cb)
+
+
+
+
 
                  
 
