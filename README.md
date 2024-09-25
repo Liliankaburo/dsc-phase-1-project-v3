@@ -91,7 +91,8 @@ A userfriendly tableau dashboard with clear data insights to used to draw conclu
 i used graphs to further analyse the data...some of the graphs are
 
 
-![Alt_img]
+![Alt_img](https://github.com/Liliankaburo/dsc-phase-1-project-v3/blob/dfc2a1bcf4a31222c280d5e027578098616fb5f0/plot4.png)
+
 
 
 
