@@ -10,3 +10,8 @@ Despite the number of aviation accidents recorded over the years,flying remains 
 # Project Overview
 
 This project,using the data from NTSB Aviation Accidents dataset(1962-2023), aims to assess and identify the aircraft model with the lowest risk factors that affect and contribute to the frequency and severity of aviation accidents. The information derived from an extensive analysis of the available data will help in making informed decisions in purchasing the aircraft to venture into the aviation industry.
+
+The aviation industry presents unique challenges, and a thorough assessment of historical accident data is essential to inform our purchasing decisions. This project aims to analyze aviation accident data from the National Transportation Safety Board (NTSB) to identify the safest aircraft options for our new business endeavors
+
+![image](https://github.com/user-attachments/assets/8bbfabd6-b2d3-40f8-b4db-0d805833ebc2)
+
