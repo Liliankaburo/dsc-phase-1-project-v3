@@ -41,12 +41,12 @@ Answers to these questions will determine which model,where privately or commerc
 
 Data source >>> NTSB Aviation Accidents report for the years 1962-1963.
 
-Data Understanding>>> data understanding and exploration using python pandas.
-
 
 Data description  
 
 A dataset from the National Transportation Safety Board that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
+
+Data Understanding>>> data understanding and exploration using python pandas.
 
 
 1.Data exploration - The structure of the data frame,its features,the datatypes it contains,does it have any missing values,what variables in the dataframe are relevant to our project in risk assessment.
