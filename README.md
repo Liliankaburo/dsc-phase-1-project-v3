@@ -83,10 +83,13 @@ d) data aggregation - aggregate data by aircraft type with metrics like total nu
 
 summarize analysis,findings and recommendations in a comprehensive final report.
 
-A userfriendly tableau dashboard with clear data insights to used to draw conclusions
+A userfriendly tableau dashboard with clear data insights to used to draw conclusions.....you can click on
+
+[Tableau Dashboard](https://public.tableau.com/app/profile/lilian.kaburo/viz/LILIANSWORK/Dashboard1?publish=yes)
 
 
-
+i used graphs to further analyse the data...some of the graphs are
+![Alt_img]
 
 
 
