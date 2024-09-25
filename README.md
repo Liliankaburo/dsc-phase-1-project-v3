@@ -11,7 +11,18 @@ Despite the number of aviation accidents recorded over the years,flying remains 
 
 This project,using the data from NTSB Aviation Accidents dataset(1962-2023), aims to assess and identify the aircraft model with the lowest risk factors that affect and contribute to the frequency and severity of aviation accidents. The information derived from an extensive analysis of the available data will help in making informed decisions in purchasing the aircraft to venture into the aviation industry.
 
-The aviation industry presents unique challenges, and a thorough assessment of historical accident data is essential to inform our purchasing decisions. This project aims to analyze aviation accident data from the National Transportation Safety Board (NTSB) to identify the safest aircraft options for our new business endeavors
+The aviation industry presents unique challenges, and a thorough assessment of historical accident data is essential to inform our purchasing decisions. This project aims to analyze aviation accident data from the National Transportation Safety Board (NTSB) to identify the safest aircraft options for our new business endeavors.
+
+# Primary objective
+Deep analysis of the data to get clear assessments of the risks so that i can provide insightful information to guide the company's stakeholders in making guided decisions towards their new venture.
+
+# specific Objectives
+
+1.Data collection>>> get data from NTSB aviation accidents report for 1962-2023
+2.Data cleaning or preprocessing data using pandas libraries in Python
+3.Data exploration - doing an indepth data analysis of the report to show trends,factor relationships and patterns(EDA)
+4.Actionable insights and recommendations - translate the findings of the Exploratory data analysis into actionable insights and recommendations.
+5.Effective visualizations to communicate the insights and recommendations to Green collar Solutions limited stakeholders to help them in making informed decisions on their new venture.
 
 # Business Understanding / Problem Statement
 
@@ -24,4 +35,9 @@ Green Collar Solutions Limited is expanding into new industries to diversify its
 (iii). Does the model of an aircraft minimize or increase it's risk factors?
 
 Answers to these questions will determine which model,where privately or commercially operated, has the lowest risks of getting into an accident regardless of other factors like weather or human error etc.
+
+
+# Data Understanding and Analysis
+
+
 
