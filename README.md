@@ -105,6 +105,11 @@ A userfriendly tableau dashboard with clear data insights to used to draw conclu
 ![Alt_img](https://github.com/Liliankaburo/dsc-phase-1-project-v3/blob/bc41ba20ad485ca34c90dcbbcc36d7ba2918cb23/plot7.png)
 
 
+# a document to help guide you on types of aircrafts,their number of engines,their model and type to facilitate quick understanding on the data in this project
+
+[Types of Aircrafts](https://github.com/Liliankaburo/dsc-phase-1-project-v3/blob/eabd3a06d18f63dbe954d121a5a5f57f668f266f/Understanding%20Aircraft%20Types.pdf)
+
+
 
                  
 
