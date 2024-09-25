@@ -30,9 +30,12 @@ Green Collar Solutions Limited is expanding into new industries to diversify its
 
 (i). What are the risk factors associated with different aircrafts?
 
+
 (ii). Do the accidents rates depend on whether the aircraft is commercial or private?
 
+
 (iii). Does the model of an aircraft minimize or increase it's risk factors?
+
 
 Answers to these questions will determine which model,where privately or commercially operated, has the lowest risks of getting into an accident regardless of other factors like weather or human error etc.
 
@@ -52,11 +55,19 @@ Data Understanding>>> data understanding and exploration using python pandas.
 # Methodology for understanding the data
 
 a) Data Selection>> identification of the relevant variables from our data
+
 b) Data Cleaning >> Check for missing values and handle them by either dropping them altogether or replacing them with a value like mean or median(this is called imputing)
+
 c) data Normalization
 d) data aggregation - aggregate data by aircraft type with metrics like total number of accidents and their severity.
 
+
 # Risk Assessment and Analysis
+
+Data aggregation- grouping data by aircraft category to calculate total accidents and injuries to provide a clear overview of the risk levels.
+
+Creating visual representations on the findings to facilitate understanding and decision making
+
 
 
 
