@@ -19,10 +19,15 @@ Deep analysis of the data to get clear assessments of the risks so that i can pr
 # specific Objectives
 
 1.Data collection>>> get data from NTSB aviation accidents report for 1962-2023
+
 2.Data cleaning or preprocessing data using pandas libraries in Python
+
 3.Data exploration - doing an indepth data analysis of the report to show trends,factor relationships and patterns(EDA)
+
 4.Actionable insights and recommendations - translate the findings of the Exploratory data analysis into actionable insights and recommendations.
+
 5.Effective visualizations to communicate the insights and recommendations to Green collar Solutions limited stakeholders to help them in making informed decisions on their new venture.
+
 
 # Business Understanding / Problem Statement
 
