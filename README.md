@@ -95,7 +95,7 @@ A userfriendly tableau dashboard with clear data insights to used to draw conclu
 ![Alt_img](https://github.com/Liliankaburo/dsc-phase-1-project-v3/blob/dfc2a1bcf4a31222c280d5e027578098616fb5f0/plot4.png)
 
 
-
+# now we compare the same with plane Model
 ![Alt_image](https://github.com/Liliankaburo/dsc-phase-1-project-v3/blob/5ee329dc0c4b400adab42a2087017ce8e12120af/plot5.png)
 
 
