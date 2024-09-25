@@ -13,5 +13,11 @@ This project,using the data from NTSB Aviation Accidents dataset(1962-2023), aim
 
 The aviation industry presents unique challenges, and a thorough assessment of historical accident data is essential to inform our purchasing decisions. This project aims to analyze aviation accident data from the National Transportation Safety Board (NTSB) to identify the safest aircraft options for our new business endeavors
 
-![image](https://github.com/user-attachments/assets/8bbfabd6-b2d3-40f8-b4db-0d805833ebc2)
+# Business Understanding / Problem Statement
+
+Green Collar Solutions Limited is expanding into new industries to diversify its portfolio. Among those being considered by the company's stakeholders is a venture into the Aviation industries (purchasing and operating aircfats for commercial and private enterprises).My task in this project is to answer the following questions for the stakeholders.
+
+(i). What are the risk factors associated with different aircrafts? (ii). Do the accidents rates depend on whether the aircraft is commercial or private? (iii). Does the model of an aircraft minimize or increase it's risk factors?
+
+Answers to these questions will determine which model,where privately or commercially operated, has the lowest risks of getting into an accident regardless of other factors like weather or human error etc.
 
