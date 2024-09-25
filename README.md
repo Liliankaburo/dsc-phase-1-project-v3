@@ -49,11 +49,20 @@ A dataset from the National Transportation Safety Board that includes aviation a
 Data Understanding>>> data understanding and exploration using python pandas.
 
 
-1.Data exploration - The structure of the data frame,its features,the datatypes it contains,does it have any missing values,what variables in the dataframe are relevant to our project in risk assessment.
+# Methodology for understanding the data
 
-2. Data quality assessment.
-3. data cleaning.
-4. data wrangling.
+a) Data Selection>> identification of the relevant variables from our data
+b) Data Cleaning >> Check for missing values and handle them by either dropping them altogether or replacing them with a value like mean or median(this is called imputing)
+c) data Normalization
+d) data aggregation - aggregate data by aircraft type with metrics like total number of accidents and their severity.
+
+# Risk Assessment and Analysis
+
+
+
+                 
+
+
 
 
 
