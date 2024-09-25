@@ -96,6 +96,10 @@ A userfriendly tableau dashboard with clear data insights to used to draw conclu
 
 
 
+![Alt_image](https://github.com/Liliankaburo/dsc-phase-1-project-v3/blob/5ee329dc0c4b400adab42a2087017ce8e12120af/plot5.png)
+
+
+
 
 
 
