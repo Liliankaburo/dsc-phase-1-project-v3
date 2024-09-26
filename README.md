@@ -110,16 +110,18 @@ A userfriendly tableau dashboard with clear data insights to used to draw conclu
 [Types of Aircrafts](https://github.com/Liliankaburo/dsc-phase-1-project-v3/blob/eabd3a06d18f63dbe954d121a5a5f57f668f266f/Understanding%20Aircraft%20Types.pdf) This documents contains information on types of Aircrafts,how many engines they have etc.....Go through it to guide your decision making
 
 
-# Recemmendations
+# Recommendations
 
-1. Purchase big powerful planes with four engines if you want to venture into something like military operations that need more space for carrying military machineries and weapons but also require little landing and taking off space.
+A) Purchase big powerful planes with four engines if you want to venture into something like military operations that need more space for carrying military machineries and weapons but also require little landing and taking off space.
 
-2. Focus on low risks Models with less fatalities,less severity on injuries and aircraft damage.
+B) A small Aircraft with two engines is suited for short distances. For instance if you are targeting businesspeople who wants to have a breakfast meeting at vipingo, a lunch meeting in Kisumu and dinner in Dubai,this type of plane can do it sufficiently...But if the said person wants to have these meetings in kenya,then SouthAfrica and proceed to Los angeles,,this palne has to have more engine power to accommade the distance and his entourage.
+
+Focus on low risks Models with less fatalities,less severity on injuries and aircraft damage--No plane is 100% safe,we want that but we are not there yet,therefore,purchasing one with less risks is the next best thing to mitigate loss of lives and finances.
  
- 3. Making decisions based on financial safety(where financial losses are mitigated) while still putting into consideration the safety of the passengers who are entrusting their lives to your airline.
+Making decisions based on financial safety(where financial losses are mitigated) while still putting into consideration the safety of the passengers who are entrusting their lives to your airline.
 
   
-![image](https://github.com/user-attachments/assets/f9a8794c-28ca-4fd1-94c0-779fbc0a799e)
+
 
 
 
