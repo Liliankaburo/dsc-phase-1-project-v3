@@ -126,7 +126,9 @@ A userfriendly tableau dashboard with clear data insights to used to draw conclu
 # Next Steps
 
 1.Research thoroughly on the type of planes with what type of engines and what number fo engines to insightfully be able to know which plane is best suited for what.
+
 2.Vet and invest heavily on training your stuff about the planes you acquire for this venture because human error is a big contributing factor to aviation accidents. They need to know the planes like the back of their hands because swift reactions are needed incase of a failure in an engine and so forth.
+
 3.Ensure to research to on your operational routes to ensure you have enough power and space to land.
 
 
