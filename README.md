@@ -116,9 +116,9 @@ A) Purchase big powerful planes with four engines if you want to venture into so
 
 B) A small Aircraft with two engines is suited for short distances. For instance if you are targeting businesspeople who wants to have a breakfast meeting at vipingo, a lunch meeting in Kisumu and dinner in Dubai,this type of plane can do it sufficiently...But if the said person wants to have these meetings in kenya,then SouthAfrica and proceed to Los angeles,,this palne has to have more engine power to accommade the distance and his entourage.
 
-Focus on low risks Models with less fatalities,less severity on injuries and aircraft damage--No plane is 100% safe,we want that but we are not there yet,therefore,purchasing one with less risks is the next best thing to mitigate loss of lives and finances.
+C) Focus on low risks Models with less fatalities,less severity on injuries and aircraft damage--No plane is 100% safe,we want that but we are not there yet,therefore,purchasing one with less risks is the next best thing to mitigate loss of lives and finances.
  
-Making decisions based on financial safety(where financial losses are mitigated) while still putting into consideration the safety of the passengers who are entrusting their lives to your airline.
+D) Making decisions based on financial safety(where financial losses are mitigated) while still putting into consideration the safety of the passengers who are entrusting their lives to your airline.
 
   
 
